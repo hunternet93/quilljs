@@ -1,7 +1,7 @@
-Quill.js packaged for Meteor.
+Quill.js 1.0.0-beta.9 packaged for Meteor.
 
 #Installation
-    meteor add themeteorites:quilljs
+    meteor add hunternet93:quilljs
 
 #Howto Use
 The package provides the ```Quill``` class to your Meteor app.
