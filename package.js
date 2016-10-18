@@ -1,12 +1,8 @@
 Package.describe({
   name: 'hunternet93:quilljs',
-  version: '1.0.0-beta.9',
-  // Brief, one-line summary of the package.
-  summary: 'Quill.js version 1.0.0-beta.9 for Meteor',
-  // URL to the Git repository containing the source code for this package.
+  version: '1.1.0',
+  summary: 'Quill.js version 1.1.0 for Meteor',
   git: 'https://github.com/hunternet93/quilljs',
-  // By default, Meteor will default to using README.md for documentation.
-  // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
 });
 
